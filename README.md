@@ -2,35 +2,67 @@
 
 Social Media App Screens
 
-This repository contains a Flutter project that showcases the design and implementation of multiple user interface screens for a modern social media application. The goal of this project is to provide a practical foundation for developers, students, or hobbyists who want to understand how to build reusable, responsive, and visually appealing screens in Flutter, following Material Design principles.
+Social Media App Screens – Flutter
 
-The app is structured into feature-based folders for better scalability and maintainability. Each screen demonstrates different aspects of a social media app, ranging from user interaction with posts to exploring trending content. Below is an overview of the key screens included:
+This project is a Flutter-based social media application UI demo, showcasing a wide collection of screens and navigation flows that replicate a modern social media experience. The app currently focuses on front-end design, navigation, and screen interactions, with future scope for backend integration and real-time features.
 
-Home Feed Screen: Displays a timeline of posts with support for likes, comments, and sharing. It demonstrates how to build scrollable lists, reusable widgets, and interactive post components.
-Trending Screen: Shows popular posts and content gaining traction. This screen focuses on layout organization, grid/list presentation, and engagement-driven UI design.
-Reels Screen: Implements a vertical short-video layout similar to Instagram Reels or TikTok. It highlights gesture handling, full-screen media display, and smooth scrolling.
-Notifications Screen: Displays alerts for user activity, including likes, comments, and follows. It provides a clean and organized way to represent chronological events.
-User Profile Screen: Shows user details, profile picture, and activity. This screen demonstrates profile design and navigation integration.
-Most Liked Screen: Highlights posts with the highest engagement, focusing on ranking and data visualization.
+🚀 Features Implemented
+
+Splash screen updated with a smaller logo and clean design (removed “Welcome” text).
+
+Login and Signup screens redesigned with improved labels, light grey input fields, and increased font sizes.
+Gender selection on Signup implemented via modal popup.
+
+Home Screen:
+Navigation back button removed for a cleaner experience.
+Background color refinements (removed grey behind logo).
+Dividers optimized (height increased, extra ones removed).
+“What’s Going On” section redesigned with white background and added text options (Gallery, Tag, Feeling, Live) instead of icons.
+“Your Story” UI updated to resemble older social media app designs.
+Screens implemented & linked:
+Popular Posts
+Most Liked
+What’s Going On
+Search (with filter popup)
+Chat (with group, archive, and modal for plus icon actions)
+
+Notifications:
+Tabbed layout with Last Activities and Friends’ Birthdays.
+Added “No Notifications Yet” screen as fallback in Last Activities.
+
+Trending:
+Trending screen UI fixes with border highlights for Pro users.
+Hashtags redirect to Hashtag Detail screen.
+A weather section and article section is added
+
+Reels:
+Reels navigation linked from bottom navbar, a demo img is showing
+
+Settings:
+Go Pro Account screen added.
+Other Settings screens implemented:
+General Account
+Privacy
+Notifications
+Invitation Links
+My Information
+Earnings
+Help & Support
+Grid Settings: Demo screen is linked with (Messages, Following, Pokes, Albums, My Images, My Videos, Saved Posts, Groups, Pages, Articles, Marketplace, Boosted, Popular Posts, Events, Find Friends, Offers, Movies, Jobs, Common Things, Memories, Funding, Games, Live Videos, Advertising).
+
+Profile options:
+View Profile opens user profile.
+“Three Dots” menu on cover → modal for Edit Cover, Edit Picture, and more.
+“Three Dots” beside username → modal for Save Post, Copy Text, etc.
+Clicking John Doe opens User Profile Screen with complete profile info.
+
+Fully functional Bottom Navigation Bar:
+Home → Home Feed
+Notifications → Notification Screen
+Reels → Reels Screen
+Trending → Trending Screen
+Settings → Settings Screen
 
 Why This Project?
-
-The purpose of this project is to serve as a learning resource and boilerplate for anyone interested in Flutter development. By exploring these screens, developers can learn:
-
-How to organize a Flutter project into feature modules.
-How to create reusable UI components and widgets.
-How to follow a consistent design language across multiple screens.
-How to prepare an app for potential backend integration.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The purpose of this project is to serve as a learning resource and boilerplate for anyone interested in Flutter development, using best and easy code structure.
+Also with these updates, the app demonstrates a complete social media front-end workflow with navigation, popups, modals, and multi-screen UI structure, just update reels and setting accorindingly and application would be ready for backend integration.
