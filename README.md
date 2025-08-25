@@ -1,4 +1,4 @@
-# splash_app
+# SM
 
 Social Media App Screens
 
