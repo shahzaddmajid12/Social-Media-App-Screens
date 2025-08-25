@@ -1,0 +1,84 @@
+name: splash_app
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+
+  # 🌐 For internationalization and formatting (dates, numbers, etc.)
+  intl: ^0.18.1
+
+  # 🎥 Video player plugin for playing videos
+  # video_player: ^2.7.0 # or latest available version
+
+  # 🌍 HTTP requests (used for APIs like weather, IP location, etc.)
+  # http: ^0.13.6
+  # google_fonts: ^6.2.1 # 👈 Added here
+
+  # 📍 Geolocation for getting the user's current position
+  # geolocator: ^10.1.0
+
+  # 📌 Reverse geocoding (lat/lng to address)
+  # geocoding: ^2.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/splash_logo.png
+    - assets/images/no-image.png
+
+    - assets/images/defaultCover.png
+
+    - assets/images/no-image.jpg
+
+    - assets/images/userImg1.png
+
+    - assets/images/johndoe.png
+
+    - assets/images/thumbnaildemo.png
+    - assets/images/weather.png
+
+    - assets/images/search.jpg
+    - assets/images/notification.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-pack
