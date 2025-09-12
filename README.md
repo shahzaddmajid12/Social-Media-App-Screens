@@ -8,7 +8,7 @@ This project is a Flutter-based social media application UI demo, showcasing a w
 
 🚀 Features Implemented
 
-Splash screen updated with a smaller logo and clean design (removed “Welcome” text).
+Splash screen updated with a smaller logo and clean design.
 
 Login and Signup screens redesigned with improved labels, light grey input fields, and increased font sizes.
 Gender selection on Signup implemented via modal popup.
