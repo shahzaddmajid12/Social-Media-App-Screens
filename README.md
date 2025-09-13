@@ -8,11 +8,11 @@ This project is a Flutter-based social media application UI demo, showcasing a w
 
 ## 📸 Screenshots
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="assets/screenshots/ss1.jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss2.jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss3.jpg" width="180" alt="Home Screen" />
-</p>
+<!-- </p> -->
 
 🚀 Features Implemented
 
