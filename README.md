@@ -11,26 +11,26 @@ This project is a Flutter-based social media application UI demo, showcasing a w
   <img src="assets/screenshots/ss(8).jpg" width="180" alt="Register Screen" />
   <img src="assets/screenshots/ss(6).jpg" width="180" alt="Home Screen" />
   <!-- <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" /> -->
-  <img src="assets/screenshots/ss(4).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(7).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(2).jpg" width="180" alt="Login Screen" />
-  <img src="assets/screenshots/ss(10).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(3).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(17).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(16).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(15).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(1).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(13).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(14).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(11).jpg" width="180" alt="Login Screen" />
-  <img src="assets/screenshots/ss(12).jpg" width="180" alt="Home Screen" />
+  <img src="assets/screenshots/ss(4).jpg" width="180" alt="Chat Screen" />
+  <img src="assets/screenshots/ss(7).jpg" width="180" alt="Search Screen" />
+  <img src="assets/screenshots/ss(2).jpg" width="180" alt="Notification Screen" />
+  <img src="assets/screenshots/ss(10).jpg" width="180" alt="User View Screen" />
+  <img src="assets/screenshots/ss(3).jpg" width="180" alt="Notificaton Screen" />
+  <img src="assets/screenshots/ss(17).jpg" width="180" alt="Trending Screen" />
+  <img src="assets/screenshots/ss(16).jpg" width="180" alt="Trending Weather" />
+  <img src="assets/screenshots/ss(15).jpg" width="180" alt="Trending Blog" />
+  <img src="assets/screenshots/ss(1).jpg" width="180" alt="Reel Screen" />
+  <img src="assets/screenshots/ss(14).jpg" width="180" alt="Setting Screen" />
+  <img src="assets/screenshots/ss(13).jpg" width="180" alt="Setting Option" />
+  <img src="assets/screenshots/ss(11).jpg" width="180" alt="My Profile Screen" />
+  <img src="assets/screenshots/ss(12).jpg" width="180" alt="My Profile Option" />
 </p>
 
 🚀 Features Implemented
 
-Splash screen updated with a smaller logo and clean design.
+Splash screen has a logo.
 
-Login and Signup screens redesigned with improved labels, light grey input fields, and increased font sizes.
+Login and Signup screens designed with improved labels and light grey input fields.
 Gender selection on Signup implemented via modal popup.
 
 Home Screen:
