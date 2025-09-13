@@ -6,12 +6,9 @@ Social Media App Screens – Flutter
 
 This project is a Flutter-based social media application UI demo, showcasing a wide collection of screens and navigation flows that replicate a modern social media experience. The app currently focuses on front-end design, navigation, and screen interactions, with future scope for backend integration and real-time features.
 
-## 📸 Screenshots  
+## 📸 Screenshots
 
-![Splash Screen](assets/screenshots/ss(1).jpg) 
-<img src="assets/screenshots/ss(1).jpg" width="250" alt="Home Screen" />
-
-
+<img src="assets/screenshots/ss(1).jpg" width="150" alt="Home Screen" />
 
 🚀 Features Implemented
 
