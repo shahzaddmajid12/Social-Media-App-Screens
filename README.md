@@ -13,9 +13,9 @@ This project is a Flutter-based social media application UI demo, showcasing a w
   <!-- <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" /> -->
   <img src="assets/screenshots/ss(4).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(7).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(1).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(2).jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss(3).jpg" width="180" alt="Home Screen" />
+  <img src="assets/screenshots/ss(1).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(10).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(11).jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss(12).jpg" width="180" alt="Home Screen" />
