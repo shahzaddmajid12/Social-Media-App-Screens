@@ -1,6 +1,6 @@
 # SM
 
-## Social Media App Screens – Flutter
+**Social Media App Screens – Flutter**
 
 This project is a Flutter-based social media application UI demo, showcasing a wide collection of screens and navigation flows that replicate a modern social media experience. The app currently focuses on front-end design, navigation, and screen interactions, with future scope for backend integration and real-time features.
 
