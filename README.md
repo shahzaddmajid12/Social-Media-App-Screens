@@ -7,8 +7,8 @@ This project is a Flutter-based social media application UI demo, showcasing a w
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/ss(9).jpg" width="180" alt="Home Screen" />
-  <img src="assets/screenshots/ss(8).jpg" width="180" alt="Login Screen" />
+  <img src="assets/screenshots/ss(9).jpg" width="180" alt="Login Screen" />
+  <img src="assets/screenshots/ss(8).jpg" width="180" alt="Register Screen" />
   <img src="assets/screenshots/ss(6).jpg" width="180" alt="Home Screen" />
   <!-- <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" /> -->
   <img src="assets/screenshots/ss(4).jpg" width="180" alt="Splash Screen" />
@@ -20,10 +20,10 @@ This project is a Flutter-based social media application UI demo, showcasing a w
   <img src="assets/screenshots/ss(16).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(15).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(1).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(11).jpg" width="180" alt="Login Screen" />
-  <img src="assets/screenshots/ss(12).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(13).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(14).jpg" width="180" alt="Home Screen" />
+  <img src="assets/screenshots/ss(11).jpg" width="180" alt="Login Screen" />
+  <img src="assets/screenshots/ss(12).jpg" width="180" alt="Home Screen" />
 </p>
 
 🚀 Features Implemented
