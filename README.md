@@ -1,7 +1,5 @@
 # SM
 
-Social Media App Screens
-
 Social Media App Screens – Flutter
 
 This project is a Flutter-based social media application UI demo, showcasing a wide collection of screens and navigation flows that replicate a modern social media experience. The app currently focuses on front-end design, navigation, and screen interactions, with future scope for backend integration and real-time features.
@@ -9,15 +7,15 @@ This project is a Flutter-based social media application UI demo, showcasing a w
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="assets/screenshots/ss(9).jpg" width="180" alt="Home Screen" />
+  <img src="assets/screenshots/ss(8).jpg" width="180" alt="Login Screen" />
+  <img src="assets/screenshots/ss(6).jpg" width="180" alt="Home Screen" />
+  <!-- <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" /> -->
   <img src="assets/screenshots/ss(1).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(2).jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss(3).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(4).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" />
-  <img src="assets/screenshots/ss(6).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(7).jpg" width="180" alt="Splash Screen" />
-  <img src="assets/screenshots/ss(8).jpg" width="180" alt="Login Screen" />
-  <img src="assets/screenshots/ss(9).jpg" width="180" alt="Home Screen" />
   <img src="assets/screenshots/ss(10).jpg" width="180" alt="Splash Screen" />
   <img src="assets/screenshots/ss(11).jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss(12).jpg" width="180" alt="Home Screen" />
