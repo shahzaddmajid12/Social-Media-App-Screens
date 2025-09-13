@@ -10,18 +10,18 @@ This project is a Flutter-based social media application UI demo, showcasing a w
   <img src="assets/screenshots/ss(9).jpg" width="180" alt="Login Screen" />
   <img src="assets/screenshots/ss(8).jpg" width="180" alt="Register Screen" />
   <img src="assets/screenshots/ss(6).jpg" width="180" alt="Home Screen" />
-  <!-- <img src="assets/screenshots/ss(5).jpg" width="180" alt="Login Screen" /> -->
   <img src="assets/screenshots/ss(4).jpg" width="180" alt="Chat Screen" />
-  ##
+  
   <img src="assets/screenshots/ss(7).jpg" width="180" alt="Search Screen" />
   <img src="assets/screenshots/ss(2).jpg" width="180" alt="Notification Screen" />
   <img src="assets/screenshots/ss(10).jpg" width="180" alt="User View Screen" />
   <img src="assets/screenshots/ss(3).jpg" width="180" alt="Notificaton Screen" />
-  ##
+  
   <img src="assets/screenshots/ss(17).jpg" width="180" alt="Trending Screen" />
   <img src="assets/screenshots/ss(16).jpg" width="180" alt="Trending Weather" />
   <img src="assets/screenshots/ss(15).jpg" width="180" alt="Trending Blog" />
   <img src="assets/screenshots/ss(1).jpg" width="180" alt="Reel Screen" />
+  
   <img src="assets/screenshots/ss(14).jpg" width="180" alt="Setting Screen" />
   <img src="assets/screenshots/ss(13).jpg" width="180" alt="Setting Option" />
   <img src="assets/screenshots/ss(11).jpg" width="180" alt="My Profile Screen" />
